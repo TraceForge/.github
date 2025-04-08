@@ -2,7 +2,7 @@
 
 ![TraceForge Logo](traceforge.png)
 
-**TraceForge** is a modern, self-hosted ERP-like platform designed for electronics and hardware companies to manage their component inventories, production workflows, and procurement processes — all in one place.
+**TraceForge** is a modern, open source and %100 free, self-hosted ERP-like platform designed for electronics and hardware companies to manage their component inventories, production workflows, and procurement processes — all in one place.
 
 ---
 
